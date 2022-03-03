@@ -1,5 +1,4 @@
 {
-"Employees": [
 {
 "userId":"1",
 "firstName":"John",
@@ -28,5 +27,4 @@
 "phoneNumber":"408-0000000",
 "emailAddress":"johndoe3@t.com"
 }
-]
 }
