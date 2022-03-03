@@ -1,0 +1,30 @@
+[
+{
+"userId":"1",
+"firstName":"John",
+"lastName":"Doe",
+"preferredFullName":"John Doe",
+"employeeCode":"TIL",
+"country":"USA",
+"phoneNumber":"408-1234567",
+"emailAddress":"johndoe@t.com"
+},
+"userId":"2",
+"firstName":"John",
+"lastName":"Doe2",
+"preferredFullName":"John Doe2",
+"employeeCode":"TIL",
+"country":"USA",
+"phoneNumber":"408-1111111",
+"emailAddress":"johndoe2@t.com"
+},
+"userId":"3",
+"firstName":"John",
+"lastName":"Doe3",
+"preferredFullName":"John Doe3",
+"employeeCode":"TIL",
+"country":"USA",
+"phoneNumber":"408-0000000",
+"emailAddress":"johndoe3@t.com"
+}
+]
