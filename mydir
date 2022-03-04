@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
       "userId": 1,
       "firstName": "Krish",
@@ -35,5 +34,4 @@
       "phoneNumber": "111111111",
       "emailAddress": "jone.mac@learningcontainer.com"
     }
-  ]
-}
+]
