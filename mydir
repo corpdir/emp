@@ -1,33 +1,39 @@
 {
-{
-"id":1,
-"userId":"1",
-"firstName":"John",
-"lastName":"Doe",
-"preferredFullName":"John Doe",
-"employeeCode":"TIL",
-"country":"USA",
-"phoneNumber":"408-1234567",
-"emailAddress":"johndoe@t.com"
-},
-"id":2,
-"userId":"2",
-"firstName":"John",
-"lastName":"Doe2",
-"preferredFullName":"John Doe2",
-"employeeCode":"TIL",
-"country":"USA",
-"phoneNumber":"408-1111111",
-"emailAddress":"johndoe2@t.com"
-},
-"id":3,
-"userId":"3",
-"firstName":"John",
-"lastName":"Doe3",
-"preferredFullName":"John Doe3",
-"employeeCode":"TIL",
-"country":"USA",
-"phoneNumber":"408-0000000",
-"emailAddress":"johndoe3@t.com"
-}
+  "users": [
+    {
+      "userId": 1,
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com"
+    },
+    {
+      "userId": 2,
+      "firstName": "racks",
+      "lastName": "jacson",
+      "phoneNumber": "123456",
+      "emailAddress": "racks.jacson@learningcontainer.com"
+    },
+    {
+      "userId": 3,
+      "firstName": "denial",
+      "lastName": "roast",
+      "phoneNumber": "33333333",
+      "emailAddress": "denial.roast@learningcontainer.com"
+    },
+    {
+      "userId": 4,
+      "firstName": "devid",
+      "lastName": "neo",
+      "phoneNumber": "222222222",
+      "emailAddress": "devid.neo@learningcontainer.com"
+    },
+    {
+      "userId": 5,
+      "firstName": "jone",
+      "lastName": "mac",
+      "phoneNumber": "111111111",
+      "emailAddress": "jone.mac@learningcontainer.com"
+    }
+  ]
 }
